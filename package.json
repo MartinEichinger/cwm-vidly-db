@@ -9,7 +9,7 @@
     "test": "jest --watchAll --verbose"
   },
   "keywords": [],
-  "author": "",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.7",
